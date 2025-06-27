@@ -1,6 +1,6 @@
 # 🏨 Sistema de Hospedagem - Hotel Reservation System
 
-[![.NET 6.0](https://img.shields.io/badge/.NET-6.0-512BD4?style=flat&logo=dotnet)](https://dotnet.microsoft.com/)
+[![.NET](https://img.shields.io/badge/.NET-6.0-purple.svg)](https://dotnet.microsoft.com/)
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 [![DIO](https://img.shields.io/badge/DIO-Trilha_.NET-ff6b35?style=flat)](https://www.dio.me)
 
